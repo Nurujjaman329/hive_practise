@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053815750700",
+    "project_id": "offline-sync-faa1e",
+    "storage_bucket": "offline-sync-faa1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053815750700:android:131b4e5a73b1913fc6d189",
+        "android_client_info": {
+          "package_name": "com.example.hive_practise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9t2wmeTrJVpQQU-XX2Gm3buKV0EI2GMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
